@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webEjemploContadores/build/static/css/main.073c9b0a.css",
+    "main.js": "/webEjemploContadores/build/static/js/main.3a13239e.js",
+    "static/js/787.1f8cb2ad.chunk.js": "/webEjemploContadores/build/static/js/787.1f8cb2ad.chunk.js",
+    "static/media/logo.svg": "/webEjemploContadores/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webEjemploContadores/build/index.html",
+    "main.073c9b0a.css.map": "/webEjemploContadores/build/static/css/main.073c9b0a.css.map",
+    "main.3a13239e.js.map": "/webEjemploContadores/build/static/js/main.3a13239e.js.map",
+    "787.1f8cb2ad.chunk.js.map": "/webEjemploContadores/build/static/js/787.1f8cb2ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3a13239e.js"
+  ]
+}
